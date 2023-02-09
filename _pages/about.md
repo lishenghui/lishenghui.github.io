@@ -36,7 +36,7 @@ distributed learning systems.
 ## Selected
 
 <div class='paper-box'><div class='paper-box-image'><div><div 
-class="badge">IEEE TBD</div><img src='images/tbd23.png' alt="sym" 
+class="badge">IEEE TBD</div><img src='images/rsz_tbd23.png' alt="sym" 
 width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
