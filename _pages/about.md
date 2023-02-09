@@ -17,42 +17,124 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am fourth year PhD student in computer science at Uppsala University, Sweden.  I 
+am fortunate to be advised by [Prof. Edith Ngai](https://www.eee.hku.
+hk/people/echngai/) and 
+[Prof. Thiemo 
+Voigt](https://www.katalog.uu.se/profile/?id=N2-279). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interests lie in federated learning, trustworthy machine learning, and 
+distributed learning systems.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TBD.
+
+[//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+## Selected
+
+<div class='paper-box'><div class='paper-box-image'><div><div 
+class="badge">IEEE TBD</div><img src='images/tbd23.png' alt="sym" 
+width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[An Experimental Study of Byzantine-Robust Aggregation Schemes in Federated Learning](https://ieeexplore.ieee.org/abstract/document/10018261)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Shenghui Li**, Edith C.-H. Ngai, Thiemo Voigt
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+IEEE Transactions on Big Data (IEEE TBD), 2023
+
 </div>
+
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE TII</div>
+      <img src='images/tii23.jpg' alt="sym" width="100%">
+    </div>
+  </div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  <div class='paper-box-text' markdown="1">
+  
+  [Byzantine-Robust Aggregation in Federated Learning Empowered Industrial IoT](https://ieeexplore.ieee.org/abstract/document/9614992)
+  
+  **Shenghui Li**, Edith C.-H. Ngai, Thiemo Voigt
+  
+  IEEE Transactions on Industrial Informatics (IEEE TII), 2023
+  
+  </div>
+</div>
+
+
+## Journal Articles
+
+- [Auto-weighted robust federated learning with corrupted data sources](https://dl.
+  acm.org/doi/full/10.1145/3517821), **Shenghui Li**, Edith C.-H. Ngai, Fanghua 
+  Ye, Thiemo Voigt, ACM Transactions on Intelligent Systems and Technology (TIST), 
+  2022
+- [Makespan-minimized computation offloading for smart toys in edge-cloud computing](https://www.sciencedirect.com/science/article/pii/S1567422319300614), **Shenghui 
+  Li**, Wuhui Chen, Yufen Chen, Chuan Chen, Zibin Zheng, Electronic Commerce 
+  Research and Applications, 2019
+- [Energy-efficient data routing in cooperative UAV swarms for medical assistance 
+  after a disaster](https://aip.scitation.org/doi/abs/10.1063/1.5092740), Yuanhao 
+  Yang, Xiaoyu Qiu, **Shenghui Li**, Junbo Wang, Wuhui Chen, Patrick CK Hung, Zibin 
+  Zheng, Chaos: An Interdisciplinary Journal of Nonlinear Science (CHAOS), 2019
+
+
+## Conference Papers
+
+- [MetaASSIST: Robust Dialogue State Tracking with Meta Learning](https://dl.acm. 
+  org/doi/full/10.1145/3517821), Fanghua Ye, Xi Wang, Jie Huang, **Shenghui Li**, 
+    Samuel Stern, and Emine Yilmaz, The Conference on Empirical Methods in Natural 
+  Language Processing (EMNLP), 2021
+- [Slot self-attentive dialogue state tracking](https://dl.acm.org/doi/abs/10.
+  1145/3442381.3449939), Fanghua Ye, Jarana Manotumruksa, Qiang Zhang, Shenghui Li, 
+  Emine Yilmaz, Proceedings of the Web Conference, 2021
+- [Smart contract-based hierarchical auction mechanism for edge computing in 
+  blockchain-empowered IoT](https://ieeexplore.ieee.org/abstract/document/9217781/), 
+  Hui Lin, Zetao Yang, Zicong Hong, **Shenghui Li**, Wuhui Chen, IEEE 21st 
+  International Symposium on" A World of Wireless, Mobile and Multimedia Networks"
+  (WoWMoM), 2020
+- [Perishable Digital Goods Trading Mechanism for Blockchain-Based Vehicular Network](https://ieeexplore.ieee.org/abstract/document/9047309/), Rui Xi, Kang Liu, Shuo 
+  Liu, Wuhui Chen, **Shenghui Li**, IEEE Intl Conf on Parallel & Distributed 
+  Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & 
+  Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom), 
+  2019
+- [Generative adversarial network based service recommendation in heterogeneous 
+  information networks](https://ieeexplore.ieee.org/abstract/document/8818434/), 
+  Fenfang Xie, **Shenghui Li**, Liang Chen, Yangjun Xu, Zibin Zheng, IEEE 
+  International Conference on Web Services (ICWS), 2019
+- [Adaptive affinity learning for accurate community detection](https://ieeexplore.
+  ieee.org/abstract/document/8594997/), Fanghua Ye, **Shenghui Li**, Zhiwei Lin, Chuan 
+  Chen, Zibin Zheng,  IEEE International Conference on Data Mining (ICDM) 2018
+- [Latency-aware task assignment and scheduling in collaborative cloud robotic 
+  systems](https://ieeexplore.ieee.org/abstract/document/8457784/), **Shenghui Li**, 
+  Zhiheng Zheng, Wuhui Chen, Zibin Zheng, Junbo Wang, IEEE 11th International 
+  Conference on Cloud Computing (CLOUD), 2018
+
+[//]: # (# 🎖 Honors and Awards)
+
+[//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - Now*, Uppsala University, Uppsala, Sweden
+- *2017.08 - 2019.06*, Sun Yat-Sen University, Guangzhou, China
+- *2013.09 - 2017.06*, Xidian University, Xi'an, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[//]: # (# 💬 Invited Talks)
+
+[//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
+
+[//]: # (# 🧑🏻‍🏫 Teaching Activities)
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.07 - 2019.10*, <img src='./images/tiktok.png' style='width: 6em;'>, Shanghai, China.
