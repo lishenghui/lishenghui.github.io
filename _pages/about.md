@@ -123,7 +123,7 @@ IEEE Transactions on Big Data (IEEE TBD), 2023
 [//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📖 Educations
-- *2019.06 - Now*, Uppsala University, Uppsala, Sweden
+- *2019.10 - Now*, Uppsala University, Uppsala, Sweden
 - *2017.08 - 2019.06*, Sun Yat-Sen University, Guangzhou, China
 - *2013.09 - 2017.06*, Xidian University, Xi'an, China
 
