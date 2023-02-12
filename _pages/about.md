@@ -92,7 +92,7 @@ IEEE Transactions on Big Data (IEEE TBD), 2023
     Samuel Stern, and Emine Yilmaz, The Conference on Empirical Methods in Natural 
   Language Processing (EMNLP), 2022
 - [Slot self-attentive dialogue state tracking](https://dl.acm.org/doi/abs/10.
-  1145/3442381.3449939), Fanghua Ye, Jarana Manotumruksa, Qiang Zhang, Shenghui Li, 
+  1145/3442381.3449939), Fanghua Ye, Jarana Manotumruksa, Qiang Zhang, **Shenghui Li**, 
   Emine Yilmaz, Proceedings of the Web Conference, 2021
 - [Smart contract-based hierarchical auction mechanism for edge computing in 
   blockchain-empowered IoT](https://ieeexplore.ieee.org/abstract/document/9217781/), 
@@ -110,7 +110,7 @@ IEEE Transactions on Big Data (IEEE TBD), 2023
   International Conference on Web Services (ICWS), 2019
 - [Adaptive affinity learning for accurate community detection](https://ieeexplore.
   ieee.org/abstract/document/8594997/), Fanghua Ye, **Shenghui Li**, Zhiwei Lin, Chuan 
-  Chen, Zibin Zheng,  IEEE International Conference on Data Mining (ICDM) 2018
+  Chen, Zibin Zheng,  IEEE International Conference on Data Mining (ICDM), 2018
 - [Latency-aware task assignment and scheduling in collaborative cloud robotic 
   systems](https://ieeexplore.ieee.org/abstract/document/8457784/), **Shenghui Li**, 
   Zhiheng Zheng, Wuhui Chen, Zibin Zheng, Junbo Wang, IEEE 11th International 
@@ -119,8 +119,6 @@ IEEE Transactions on Big Data (IEEE TBD), 2023
 [//]: # (# 🎖 Honors and Awards)
 
 [//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-
-[//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📖 Educations
 - *2019.10 - Now*, Uppsala University, Uppsala, Sweden
