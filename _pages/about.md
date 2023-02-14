@@ -107,8 +107,8 @@ IEEE Transactions on Big Data (IEEE TBD), 2023
   information networks](https://ieeexplore.ieee.org/abstract/document/8818434/), 
   Fenfang Xie, **Shenghui Li**, Liang Chen, Yangjun Xu, Zibin Zheng, IEEE 
   International Conference on Web Services (ICWS), 2019
-- [Adaptive affinity learning for accurate community detection](https://ieeexplore.
-  ieee.org/abstract/document/8594997/), Fanghua Ye, **Shenghui Li**, Zhiwei Lin, Chuan 
+- [Adaptive affinity learning for accurate community detection](https://ieeexplore.ieee.org/abstract/document/8594997/),
+  Fanghua Ye, **Shenghui Li**, Zhiwei Lin, Chuan 
   Chen, Zibin Zheng,  IEEE International Conference on Data Mining (ICDM), 2018
 - [Latency-aware task assignment and scheduling in collaborative cloud robotic 
   systems](https://ieeexplore.ieee.org/abstract/document/8457784/), **Shenghui Li**, 
