@@ -72,8 +72,7 @@ IEEE Transactions on Big Data (IEEE TBD), 2023
 
 ## Journal Articles
 
-- [Auto-weighted robust federated learning with corrupted data sources](https://dl.
-  acm.org/doi/full/10.1145/3517821), **Shenghui Li**, Edith C.-H. Ngai, Fanghua 
+- [Auto-weighted robust federated learning with corrupted data sources](https://dl.acm.org/doi/full/10.1145/3517821), **Shenghui Li**, Edith C.-H. Ngai, Fanghua 
   Ye, Thiemo Voigt, ACM Transactions on Intelligent Systems and Technology (TIST), 
   2022
 - [Makespan-minimized computation offloading for smart toys in edge-cloud computing](https://www.sciencedirect.com/science/article/pii/S1567422319300614), **Shenghui 
