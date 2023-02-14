@@ -87,7 +87,7 @@ IEEE Transactions on Big Data (IEEE TBD), 2023
 
 ## Conference Papers
 
-- [MetaASSIST: Robust Dialogue State Tracking with Meta Learning]([https://dl.acm.org/doi/full/10.1145/3517821](https://arxiv.org/abs/2210.12397)), Fanghua Ye, Xi Wang, Jie Huang, **Shenghui Li**, 
+- [MetaASSIST: Robust Dialogue State Tracking with Meta Learning](https://arxiv.org/abs/2210.12397), Fanghua Ye, Xi Wang, Jie Huang, **Shenghui Li**, 
     Samuel Stern, and Emine Yilmaz, The Conference on Empirical Methods in Natural 
   Language Processing (EMNLP), 2022
 - [Slot self-attentive dialogue state tracking](https://dl.acm.org/doi/abs/10.1145/3442381.3449939), 
