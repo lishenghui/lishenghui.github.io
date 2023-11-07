@@ -32,7 +32,7 @@ distributed learning systems.
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📦 Projects
-- <img src='./images/blade10.png' style='width: 2em;'> **[Blades](https://github.com/lishenghui/blades):** A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning
+- <img src='./images/blade10.png' style='width: 1.5em;'> **[Blades](https://github.com/lishenghui/blades):** A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning
 
   
 # 📝 Publications 
