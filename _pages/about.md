@@ -124,6 +124,9 @@ IEEE Transactions on Big Data (IEEE TBD), 2023
 [//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 
+# 🏆 Honors & awards
+- *2023.12*, Hackathon - [Huawei Sweden University Challenge 2023](https://www.huaweihackathon2023.se/en/challenges/registration) ***(3rd place)***
+
 # 📖 Educations
 - *2019.10 - Now*, Uppsala University, Uppsala, Sweden
 - *2017.08 - 2019.06*, Sun Yat-Sen University, Guangzhou, China
