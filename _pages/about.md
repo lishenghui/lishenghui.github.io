@@ -27,7 +27,7 @@ My research interests lie in federated learning, trustworthy machine learning, a
 distributed learning systems.
 
 # 🔥 News
-- *2023.12*: &nbsp;🏆🥉 My team ''***Uppsala Go***'' secured ***3rd*** Place at the [Huawei Sweden Hackathon 2023](https://www.huaweihackathon2023.se/en/challenges/registration), showcasing our cost-effective solution in RAN Computing.
+- *2023.12*: &nbsp;🏆🥉 My team ''***Uppsala Go***'' secured ***3rd*** Place at the [Huawei Sweden Hackathon 2023](https://www.huaweihackathon2023.se/en/challenges/registration), attributed to our cost-effective solution in RAN Computing.
 - *2023.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TBD.
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
