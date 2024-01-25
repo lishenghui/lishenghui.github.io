@@ -42,7 +42,7 @@ distributed learning systems.
 ## Selected
 
 <div class='paper-box'><div class='paper-box-image'><div><div 
-class="badge">IoTDI</div><img src='images/blades_title' alt="sym" 
+class="badge">IoTDI</div><img src='images/blades_title.png' alt="sym" 
 width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
