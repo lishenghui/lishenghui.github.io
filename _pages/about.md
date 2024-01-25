@@ -104,7 +104,11 @@ IEEE Transactions on Big Data (IEEE TBD), 2023
 
 
 ## Conference Papers
-- ``EMNLP 2023`` [Enhancing Conversational Search: Large Language Model-Aided Informative Query Rewriting](https://arxiv.org/abs/2310.09716), Fanghua Ye, Meng Fang, **Shenghui Li**, Emine Yilmaz
+
+- [Blades: A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning](https://arxiv.org/abs/2206.05359), **Shenghui Li**, Edith Ngai, Fanghua Ye, Li Ju, Tianru Zhang, Thiemo Voigt, ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI), 2024
+
+- [Enhancing Conversational Search: Large Language Model-Aided Informative Query Rewriting](https://arxiv.org/abs/2310.09716), Fanghua Ye, Meng Fang, **Shenghui Li**, Emine Yilmaz, The Conference on Empirical Methods in Natural 
+  Language Processing (EMNLP), 2023
 - [MetaASSIST: Robust Dialogue State Tracking with Meta Learning](https://arxiv.org/abs/2210.12397), Fanghua Ye, Xi Wang, Jie Huang, **Shenghui Li**, 
     Samuel Stern, and Emine Yilmaz, The Conference on Empirical Methods in Natural 
   Language Processing (EMNLP), 2022
