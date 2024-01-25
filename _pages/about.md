@@ -50,8 +50,9 @@ width="100%"></div></div>
 
 **Shenghui Li**, Edith Ngai, Fanghua Ye, Li Ju, Tianru Zhang, Thiemo Voigt
 
-CM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI), 2024
+ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI), 2024
 
+  </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div 
@@ -65,8 +66,7 @@ width="100%"></div></div>
 
 IEEE Transactions on Big Data (IEEE TBD), 2023
 
-</div>
-
+   </div>
 </div>
 
 <div class='paper-box'>
