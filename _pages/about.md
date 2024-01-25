@@ -27,6 +27,7 @@ My research interests lie in federated learning, trustworthy machine learning, a
 distributed learning systems.
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 One paper is accepted by IoTDI.
 - *2023.12*: &nbsp;🏆🥉 My team ''***Uppsala Go***'' secured ***3rd*** Place at the [Huawei Sweden Hackathon 2023](https://www.huaweihackathon2023.se/en/challenges/registration), attributed to our cost-effective solution in RAN Computing.
 - *2023.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TBD.
 
@@ -39,6 +40,19 @@ distributed learning systems.
 # 📝 Publications 
 
 ## Selected
+
+<div class='paper-box'><div class='paper-box-image'><div><div 
+class="badge">IoTDI</div><img src='images/blades_title' alt="sym" 
+width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Blades: A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning](https://arxiv.org/abs/2206.05359)
+
+**Shenghui Li**, Edith Ngai, Fanghua Ye, Li Ju, Tianru Zhang, Thiemo Voigt
+
+CM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI), 2024
+
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div 
 class="badge">IEEE TBD</div><img src='images/rsz_tbd23.png' alt="sym" 
