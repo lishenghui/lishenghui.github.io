@@ -28,7 +28,7 @@ distributed learning systems.
 
 # 🔥 News
 - *2025.01*: &nbsp;🎓📚 I successfully defended my doctoral thesis, [Robust Federated Learning: Defending Against Byzantine and Jailbreak Attacks](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1914990&dswid=-4039).
-- *2024.01*: &nbsp;🎉🎉 One paper is accepted by [IoTDI 2024](https://conferences.computer.org/iotDI/2024/).
+- *2024.01*: &nbsp;🎉🎉 [Blades](https://arxiv.org/abs/2206.05359) is accepted by [IoTDI 2024](https://conferences.computer.org/iotDI/2024/).
 - *2023.12*: &nbsp;🏆🥉 My team ''***Uppsala Go***'' secured ***3rd*** Place at the [Huawei Sweden Hackathon 2023](https://www.huaweihackathon2023.se/en/challenges/registration), attributed to our cost-effective solution in RAN Computing.
 - *2023.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TBD.
 
