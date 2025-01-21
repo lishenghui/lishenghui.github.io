@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a fifth-year PhD student in computer science at Uppsala University, Sweden.  I 
-am fortunate to be advised by [Prof. Edith Ngai](https://www.eee.hku.
+am fortunate to be advised by [Prof. Edith C. H. Ngai](https://www.eee.hku.
 hk/people/echngai/) and 
 [Prof. Thiemo 
 Voigt](https://www.katalog.uu.se/profile/?id=N2-279). 
@@ -49,7 +49,7 @@ width="100%"></div></div>
 
 [Blades: A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning](https://arxiv.org/abs/2206.05359)
 
-**Shenghui Li**, Edith Ngai, Fanghua Ye, Li Ju, Tianru Zhang, Thiemo Voigt
+**Shenghui Li**, Edith C. H. Ngai, Fanghua Ye, Li Ju, Tianru Zhang, Thiemo Voigt
 
 ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI), 2024
 
@@ -63,7 +63,7 @@ width="100%"></div></div>
 
 [An Experimental Study of Byzantine-Robust Aggregation Schemes in Federated Learning](https://ieeexplore.ieee.org/abstract/document/10018261)
 
-**Shenghui Li**, Edith C.-H. Ngai, Thiemo Voigt
+**Shenghui Li**, Edith C. H. Ngai, Thiemo Voigt
 
 IEEE Transactions on Big Data (IEEE TBD), 2023
 
@@ -82,7 +82,7 @@ IEEE Transactions on Big Data (IEEE TBD), 2023
   
   [Byzantine-Robust Aggregation in Federated Learning Empowered Industrial IoT](https://ieeexplore.ieee.org/abstract/document/9614992)
   
-  **Shenghui Li**, Edith C.-H. Ngai, Thiemo Voigt
+  **Shenghui Li**, Edith C. H. Ngai, Thiemo Voigt
   
   IEEE Transactions on Industrial Informatics (IEEE TII), 2023
   
@@ -92,7 +92,7 @@ IEEE Transactions on Big Data (IEEE TBD), 2023
 
 ## Journal Articles
 
-- [Auto-weighted robust federated learning with corrupted data sources](https://dl.acm.org/doi/full/10.1145/3517821), **Shenghui Li**, Edith C.-H. Ngai, Fanghua 
+- [Auto-weighted robust federated learning with corrupted data sources](https://dl.acm.org/doi/full/10.1145/3517821), **Shenghui Li**, Edith C. H. Ngai, Fanghua 
   Ye, Thiemo Voigt, ACM Transactions on Intelligent Systems and Technology (TIST), 
   2022
 - [Makespan-minimized computation offloading for smart toys in edge-cloud computing](https://www.sciencedirect.com/science/article/pii/S1567422319300614), **Shenghui 
@@ -106,7 +106,7 @@ IEEE Transactions on Big Data (IEEE TBD), 2023
 
 ## Conference Papers
 
-- [Blades: A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning](https://arxiv.org/abs/2206.05359), **Shenghui Li**, Edith Ngai, Fanghua Ye, Li Ju, Tianru Zhang, Thiemo Voigt, ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI), 2024
+- [Blades: A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning](https://arxiv.org/abs/2206.05359), **Shenghui Li**, Edith C. H. Ngai, Fanghua Ye, Li Ju, Tianru Zhang, Thiemo Voigt, ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI), 2024
 
 - [Enhancing Conversational Search: Large Language Model-Aided Informative Query Rewriting](https://arxiv.org/abs/2310.09716), Fanghua Ye, Meng Fang, **Shenghui Li**, Emine Yilmaz, The Conference on Empirical Methods in Natural 
   Language Processing (EMNLP), 2023
