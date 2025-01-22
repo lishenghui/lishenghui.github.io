@@ -34,9 +34,6 @@ distributed learning systems.
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
-# 📦 Projects
-- <img src='./images/blade10.png' style='width: 1.5em;'> **[Blades](https://github.com/lishenghui/blades):** A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning
-
   
 # 📝 Publications 
 
@@ -141,6 +138,9 @@ IEEE Transactions on Big Data (IEEE TBD), 2023
 [//]: # (# 🎖 Honors and Awards)
 
 [//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+# 📦 Projects
+- <img src='./images/blade10.png' style='width: 1.5em;'> **[Blades](https://github.com/lishenghui/blades):** A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning
 
 
 # 🏆 Honors & awards
