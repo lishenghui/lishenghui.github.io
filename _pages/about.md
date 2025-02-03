@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivhttps://github.com/lishenghui/lishenghui.github.io/tree/main/_pagesr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
