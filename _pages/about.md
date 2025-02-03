@@ -17,11 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fifth-year PhD student in computer science at Uppsala University, Sweden.  I 
-am fortunate to be advised by [Prof. Edith C. H. Ngai](https://www.eee.hku.
-hk/people/echngai/) and 
-[Prof. Thiemo 
-Voigt](https://www.katalog.uu.se/profile/?id=N2-279). 
+I am a postdoctoral researcher at the Department of Electrical Engineering, Uppsala University, working with [Prof. Thiemo Voigt](https://www.katalog.uu.se/profile/?id=N2-279). Previously, I completed my PhD in January 2025 at the Department of Information Technology, Uppsala University, under the supervision of [Prof. Edith C. H. Ngai](https://www.eee.hku.hk/people/echngai/).
 
 My research interests lie in federated learning, trustworthy machine learning, and 
 distributed learning systems.
