@@ -19,8 +19,7 @@ redirect_from:
 
 I am a postdoctoral researcher at the Department of Electrical Engineering, Uppsala University, working with [Prof. Thiemo Voigt](https://www.katalog.uu.se/profile/?id=N2-279). Previously, I completed my PhD in January 2025 at the Department of Information Technology, Uppsala University, under the supervision of [Prof. Edith C. H. Ngai](https://www.eee.hku.hk/people/echngai/).
 
-My research interests lie in federated learning, trustworthy machine learning, and 
-distributed learning systems.
+My research interests lie in federated learning, AI safety, trustworthy AI.
 
 # 🔥 News
 - *2025.01*: &nbsp;🎓📚 I successfully defended my doctoral thesis,  <img src='./images/thesis.png' style='width: 1.5em;'> [Robust Federated Learning: Defending Against Byzantine and Jailbreak Attacks](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1914990&dswid=-4039).
