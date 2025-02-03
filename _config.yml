@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shenghui Li"
-description              : "Focusing on Federated Machine Learning and Trustworthy AI."
+description              : "Focusing on Federated Learning, AI safety, and trustworthy AI."
 repository               : "lishenghui/lishenghui.github.io"
 google_scholar_stats_use_cdn : true
 
