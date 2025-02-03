@@ -23,8 +23,8 @@ My research interests lie in federated learning, trustworthy machine learning, a
 distributed learning systems.
 
 # 🔥 News
-- *2025.01*: &nbsp;🎓📚 I successfully defended my doctoral thesis, [Robust Federated Learning: Defending Against Byzantine and Jailbreak Attacks](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1914990&dswid=-4039).
-- *2024.01*: &nbsp;🎉🎉 [Blades](https://arxiv.org/abs/2206.05359) is accepted by [IoTDI 2024](https://conferences.computer.org/iotDI/2024/).
+- *2025.01*: &nbsp;🎓📚 I successfully defended my doctoral thesis,  <img src='./images/thesis.png' style='width: 1.5em;'> [Robust Federated Learning: Defending Against Byzantine and Jailbreak Attacks](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1914990&dswid=-4039).
+- *2024.01*: &nbsp;🎉🎉  <img src='./images/blade10.png' style='width: 1.3em;'> [Blades](https://arxiv.org/abs/2206.05359) is accepted by [IoTDI 2024](https://conferences.computer.org/iotDI/2024/).
 - *2023.12*: &nbsp;🏆🥉 My team ''***Uppsala Go***'' secured ***3rd*** Place at the [Huawei Sweden Hackathon 2023](https://www.huaweihackathon2023.se/en/challenges/registration), attributed to our cost-effective solution in RAN Computing.
 - *2023.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TBD.
 
@@ -136,7 +136,7 @@ IEEE Transactions on Big Data (IEEE TBD), 2023
 [//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📦 Projects
-- <img src='./images/blade10.png' style='width: 1.5em;'> **[Blades](https://github.com/lishenghui/blades):** A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning
+- <img src='./images/blade10.png' style='width: 1.3em;'> **[Blades](https://github.com/lishenghui/blades):** A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning
 
 
 # 🏆 Honors & awards
