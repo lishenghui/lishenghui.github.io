@@ -22,9 +22,10 @@ I am a postdoctoral researcher at the Department of Electrical Engineering, Upps
 My research interests lie in federated learning, AI safety, and trustworthy AI.
 
 # 🔥 News
+- *2025.08*: &nbsp;🏆🥇 Our team, 🐾Cat Quartet🐾, claimed 1st place at the [Huawei Sweden Tech Arena 2025](https://techarena-sweden.hackathon.com/), outshining more than 70 incredible teams throughout Europe 🌟.
 - *2025.01*: &nbsp;🎓📚 I successfully defended my doctoral thesis,  <img src='./images/thesis.png' style='width: 1.5em;'> [Robust Federated Learning: Defending Against Byzantine and Jailbreak Attacks](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1914990&dswid=-4039).
 - *2024.01*: &nbsp;🎉🎉  <img src='./images/blade10.png' style='width: 1.3em;'> [Blades](https://arxiv.org/abs/2206.05359) is accepted by [IoTDI 2024](https://conferences.computer.org/iotDI/2024/).
-- *2023.12*: &nbsp;🏆🥉 My team ''***Uppsala Go***'' secured ***3rd*** Place at the [Huawei Sweden Hackathon 2023](https://www.huaweihackathon2023.se/en/challenges/registration), attributed to our cost-effective solution in RAN Computing.
+- *2023.12*: &nbsp;🏆🥉 My team ''***Uppsala Go***'' secured ***3rd*** Place at the [Huawei Sweden Hackathon 2023](https://www.agorize.com/en/challenges/huawei-sweden-hackathon-2023), attributed to our cost-effective solution in RAN Computing.
 - *2023.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TBD.
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
