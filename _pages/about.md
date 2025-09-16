@@ -140,6 +140,7 @@ IEEE Transactions on Big Data (IEEE TBD), 2023
 
 
 # 🏆 Honors & awards
+- *2025.08*, [Huawei Sweden Tech Arena 2025](https://techarena-sweden.hackathon.com/) ***(1st place)***
 - *2023.12*, Hackathon - [Huawei Sweden University Challenge 2023](https://www.huaweihackathon2023.se/en/challenges/registration) ***(3rd place)***
 
 # 📖 Educations
