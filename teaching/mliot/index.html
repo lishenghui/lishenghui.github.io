@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>MLIoT teaching resources — Shenghui Li</title>
+<style>body{font:16px/1.6 system-ui,sans-serif;max-width:850px;margin:48px auto;padding:0 24px;color:#233047}h1,h2{line-height:1.2}a{color:#165ec9}pre{background:#f2f5f9;padding:16px;overflow:auto;border-radius:8px}table{border-collapse:collapse;width:100%}td,th{text-align:left;padding:12px;border-bottom:1px solid #ddd}small{color:#596579}</style></head>
+<body><main><p><a href="/">Shenghui Li</a> / Teaching</p><h1>Machine Learning for IoT</h1><p>Course tools and gesture data for the Arduino Nano 33 BLE Sense Rev2 labs.</p>
+<h2>Edgelet</h2><p>Install or update the Lab 2 package:</p>
+<pre><code>python -m pip install -U "edgelet[lab2]" -f https://lishenghui.github.io/teaching/mliot/edgelet-releases/</code></pre>
+<p><a href="edgelet-releases/">Package index and available versions</a></p>
+<h2>Gesture dataset</h2><p>119 provided recordings covering idle, circle, leftright, updown, snake and twist. The Lab 2 ZIP preserves the Lab 1 split: 95 training recordings and 24 fixed validation recordings, stored in the <code>testing/</code> folder.</p>
+<table><thead><tr><th>Download</th><th>Use</th></tr></thead><tbody>
+<tr><td><a href="datasets/lab1_data.zip">Lab 2 dataset (JSON ZIP)</a></td><td>Extract into <code>dataset/</code> next to the notebook. Includes <code>training/</code>, <code>testing/</code> and <code>manifest.csv</code>.</td></tr>
+<tr><td><a href="datasets/gestures_v1.zip">Original Edgelet dataset (CBOR ZIP)</a></td><td>The base dataset shipped with Edgelet.</td></tr>
+<tr><td><a href="datasets/manifest.json">File sizes and SHA-256 checksums</a></td><td>Verify a download.</td></tr>
+</tbody></table><p>To include your own Lab 1 recordings, export from your Edgelet workspace instead:</p>
+<pre><code>edgelet export-data --include-base --out lab1_data.zip</code></pre>
+<small>The fixed validation set is for model comparison; the course challenge test set is separate.</small>
+</main></body></html>
