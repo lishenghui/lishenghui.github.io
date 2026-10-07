@@ -1,0 +1,50 @@
+name: Sync MLIoT package index
+on:
+  workflow_dispatch:
+    inputs:
+      force_build:
+        description: Request a Pages rebuild even if the index is unchanged
+        type: boolean
+        default: false
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+  push:
+    paths:
+      - 'scripts/sync_mliot_releases.py'
+      - '.github/workflows/sync-mliot-releases.yml'
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: mliot-package-index
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate wheel links
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/sync_mliot_releases.py
+      - name: Commit updated index
+        id: commit
+        run: |
+          if git diff --quiet -- teaching/mliot/edgelet-releases/index.html; then
+            echo 'changed=false' >> "$GITHUB_OUTPUT"
+          else
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add teaching/mliot/edgelet-releases/index.html
+            git commit -m 'Sync Edgelet package index'
+            git push
+            echo 'changed=true' >> "$GITHUB_OUTPUT"
+          fi
+      - name: Rebuild GitHub Pages
+        if: steps.commit.outputs.changed == 'true' || inputs.force_build == true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"

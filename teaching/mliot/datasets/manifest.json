@@ -1,0 +1,23 @@
+{
+  "recordings": 119,
+  "training_recordings": 95,
+  "validation_recordings": 24,
+  "labels": [
+    "idle",
+    "circle",
+    "leftright",
+    "updown",
+    "snake",
+    "twist"
+  ],
+  "files": {
+    "gestures_v1.zip": {
+      "bytes": 2992627,
+      "sha256": "027a8efaabd2286402b010c0a11caffa050a8f74d71eefa50af97988bf0e945c"
+    },
+    "lab1_data.zip": {
+      "bytes": 2970547,
+      "sha256": "cfaa7a2453ed2a4bf376729a0c56a11861526ac607226f1b0d950504244386f1"
+    }
+  }
+}
