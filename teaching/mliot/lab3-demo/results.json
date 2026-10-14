@@ -1,1 +1,1 @@
-{"version": 2, "updated": "2026-10-14T11:39:31.082794+00:00", "rows": [{"team": "SIM-A", "score": 0.8, "accuracy": 0.85, "latency_ms": 24}]}
+{"version": 3, "updated": "2026-10-14T11:43:07.641212+00:00", "rows": [{"team": "SIM-A", "score": 0.8, "accuracy": 0.85, "latency_ms": 24}, {"team": "SIM-B", "score": 0.9, "accuracy": 0.94, "latency_ms": 20}]}
