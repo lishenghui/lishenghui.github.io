@@ -19,7 +19,7 @@ redirect_from:
 
 I am a postdoctoral researcher at the Department of Electrical Engineering, Uppsala University, working with [Prof. Thiemo Voigt](https://www.katalog.uu.se/profile/?id=N2-279). Previously, I completed my PhD in January 2025 at the Department of Information Technology, Uppsala University, under the supervision of [Prof. Edith C. H. Ngai](https://www.eee.hku.hk/people/echngai/).
 
-My research interests lie in federated learning, AI safety, and trustworthy AI.
+My research interests lie in Efficient AI and federated learning.
 
 # 🔥 News
 - *2026.10*: &nbsp;🎉🎉 Our paper LoRA on a Budget: Function-Aware Post-Hoc Compression for Adapter Fleets has been accepted by [Workshop NeuralArtifacts@NeurIPS](https://artifactsasdata.org/). The full paper and code will be released soon.
