@@ -22,7 +22,7 @@ I am a postdoctoral researcher at the Department of Electrical Engineering, Upps
 My research interests lie in Efficient AI and federated learning.
 
 # 🔥 News
-- *2026.10*: &nbsp;🎉🎉 Our paper LoRA on a Budget: Function-Aware Post-Hoc Compression for Adapter Fleets has been accepted by [Workshop NeuralArtifacts@NeurIPS](https://artifactsasdata.org/). The full paper and code will be released soon.
+- *2026.10*: &nbsp;🎉🎉 Our paper [LoRA on a Budget: Function-Aware Post-Hoc Compression for Adapter Fleets](https://openreview.net/forum?id=CvmRAXEk8B) has been accepted by [Workshop NeuralArtifacts@NeurIPS](https://artifactsasdata.org/).
 - *2025.08*: &nbsp;🏆🥇 Our team, 🐾Cat Quartet🐾, claimed 1st place at the [Huawei Sweden Tech Arena 2025](https://techarena-sweden.hackathon.com/), outshining more than 70 incredible teams throughout Europe 🌟.
 - *2025.01*: &nbsp;🎓📚 I successfully defended my doctoral thesis,  <img src='./images/thesis.png' style='width: 1.5em;'> [Robust Federated Learning: Defending Against Byzantine and Jailbreak Attacks](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1914990&dswid=-4039).
 - *2024.01*: &nbsp;🎉🎉  <img src='./images/blade10.png' style='width: 1.3em;'> [Blades](https://arxiv.org/abs/2206.05359) is accepted by [IoTDI 2024](https://conferences.computer.org/iotDI/2024/).
