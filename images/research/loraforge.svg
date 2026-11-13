@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="340" viewBox="0 0 560 340" role="img" aria-labelledby="title desc">
+<title id="title">LoRAForge compression and execution</title><desc id="desc">Trained adapters pass through batched compression to a retained-rank representation and rank-specialized execution.</desc>
+<rect width="560" height="340" fill="#f2f7f6"/>
+<g font-family="Arial, sans-serif" fill="#284f50"><text x="36" y="42" font-size="18" font-weight="bold" letter-spacing="1.5">LoRAForge</text><text x="36" y="69" font-size="16" fill="#607a79">From compressed adapters to efficient serving</text>
+<g fill="#fff" stroke="#bcd3cf"><rect x="36" y="101" width="204" height="86" rx="5"/><rect x="320" y="101" width="204" height="86" rx="5"/></g>
+<g font-size="18" text-anchor="middle"><text x="138" y="133">Trained adapters</text><text x="422" y="133">Batched compression</text></g>
+<g fill="#649a91"><rect x="83" y="148" width="28" height="20" rx="2"/><rect x="124" y="148" width="28" height="20" rx="2"/><rect x="165" y="148" width="28" height="20" rx="2"/></g><text x="422" y="164" font-size="16" text-anchor="middle" fill="#607a79">FlashTSQR</text>
+<path d="M244 144H312m-8-6 8 6-8 6M422 191v29H280v17m-6-8 6 8 6-8" fill="none" stroke="#649a91" stroke-width="2.5"/>
+<rect x="36" y="242" width="488" height="60" rx="5" fill="#285c56"/><text x="280" y="268" font-size="19" text-anchor="middle" fill="white">Retained ranks → Specialized execution</text><text x="280" y="289" font-size="14" text-anchor="middle" fill="#cce1dc">Compression + runtime co-design</text></g></svg>

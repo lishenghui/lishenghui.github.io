@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shenghui Li"
-description              : "Focusing on Efficient AI and federated learning."
+description              : "Efficient foundation model adaptation, LoRA compression, and distributed learning systems."
 repository               : "lishenghui/lishenghui.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shenghui Li (李圣辉)"
   avatar           : "images/shenghui-li.jpg"
-  bio              : "Postdoctoral researcher at Uppsala University"
+  bio              : "Postdoctoral Researcher"
   location         : "Uppsala, Sweden"
   employer         : "Uppsala University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=I1AiTyUAAAAJ&hl=en"
-  email            : "shenghui.li@it.uu.se"
+  email            : "shenghui.li@angstrom.uu.se"
   researchgate     : "https://www.researchgate.net/profile/Shenghui-Li-10"
   uri              :
   bitbucket        :

@@ -1,0 +1,19 @@
+<article class="research-item">
+  <div class="research-visual">
+    <a class="research-image" href="{{ paper.project | default: paper.paper | relative_url }}" aria-label="Explore {{ paper.title | escape }}">
+      <img src="{{ paper.image | relative_url }}" alt="{{ paper.alt | escape }}" loading="lazy" width="560" height="340">
+    </a>
+    <span class="research-venue">{{ paper.venue }}</span>
+  </div>
+  <div class="research-content">
+    <h3><a href="{{ paper.paper }}">{{ paper.title }}</a></h3>
+    <p class="research-authors">{{ paper.authors }}</p>
+    <p class="research-summary">{{ paper.summary }}</p>
+    <div class="resource-links" aria-label="Research resources">
+      <a href="{{ paper.paper }}">Paper <span aria-hidden="true">↗</span></a>
+      {% if paper.code %}<a href="{{ paper.code }}">Code <span aria-hidden="true">↗</span></a>{% endif %}
+      {% if paper.project %}<a href="{{ paper.project | relative_url }}">Project <span aria-hidden="true">↗</span></a>{% endif %}
+      {% if paper.extra_url %}<a href="{{ paper.extra_url }}">{{ paper.extra_label }} <span aria-hidden="true">↗</span></a>{% endif %}
+    </div>
+  </div>
+</article>

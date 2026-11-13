@@ -1,16 +1,14 @@
 ---
-layout: compress
 ---
 
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
-    {% if page.permalink == '/teaching/' %}<base href="/">{% endif %}
     {% include head.html %}
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body class="academic-site{% if page.permalink == '/' %} academic-site--home{% endif %}">
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}

@@ -1,163 +1,83 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "Shenghui Li — efficient foundation model adaptation, LoRA compression, and distributed learning systems."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivhttps://github.com/lishenghui/lishenghui.github.io/tree/main/_pagesr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-I am a postdoctoral researcher at the Department of Electrical Engineering, Uppsala University, working with [Prof. Thiemo Voigt](https://www.katalog.uu.se/profile/?id=N2-279). Previously, I completed my PhD in January 2025 at the Department of Information Technology, Uppsala University, under the supervision of [Prof. Edith C. H. Ngai](https://www.eee.hku.hk/people/echngai/).
-
-My research interests lie in Efficient AI and federated learning.
-
-# 🔥 News
-- *2026.11*: &nbsp;🎉🎉 Our paper [FraQ: Efficient Coordinate-Space Recompression for Federated Low-Rank Adaptation](/fraq/) has been accepted at **EACL 2027**.
-- *2026.10*: &nbsp;🎉🎉 Our paper [LoRA on a Budget: Function-Aware Post-Hoc Compression for Adapter Fleets](https://openreview.net/forum?id=CvmRAXEk8B) has been accepted by [Workshop NeuralArtifacts@NeurIPS](https://artifactsasdata.org/).
-- *2025.08*: &nbsp;🏆🥇 Our team, 🐾Cat Quartet🐾, claimed 1st place at the [Huawei Sweden Tech Arena 2025](https://techarena-sweden.hackathon.com/), outshining more than 70 incredible teams throughout Europe 🌟.
-- *2025.01*: &nbsp;🎓📚 I successfully defended my doctoral thesis,  <img src='./images/thesis.png' style='width: 1.5em;'> [Robust Federated Learning: Defending Against Byzantine and Jailbreak Attacks](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1914990&dswid=-4039).
-- *2024.01*: &nbsp;🎉🎉  <img src='./images/blade10.png' style='width: 1.3em;'> [Blades](https://arxiv.org/abs/2206.05359) is accepted by [IoTDI 2024](https://conferences.computer.org/iotDI/2024/).
-- *2023.12*: &nbsp;🏆🥉 Our team, ''***Uppsala Go***'', secured ***3rd*** Place at the [Huawei Sweden Hackathon 2023](https://www.agorize.com/en/challenges/huawei-sweden-hackathon-2023), attributed to our cost-effective solution in RAN Computing.
-- *2023.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TBD.
-
-[//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-
-  
-# 📝 Publications 
-
-## Selected
-
-<div class='paper-box'><div class='paper-box-image'><div><div 
-class="badge">IoTDI</div><img src='images/blades_title.png' alt="sym" 
-width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Blades: A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning](https://arxiv.org/abs/2206.05359)
-
-**Shenghui Li**, Edith C. H. Ngai, Fanghua Ye, Li Ju, Tianru Zhang, Thiemo Voigt
-
-ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI), 2024
-
+<div class="homepage">
+<section id="about-me" class="about-section" aria-labelledby="about-title">
+  <h1 id="about-title">About Me</h1>
+  <p>I am a postdoctoral researcher in the Department of Electrical Engineering at Uppsala University, working with <a href="https://www.katalog.uu.se/profile/?id=N2-279">Prof. Thiemo Voigt</a>. I received my PhD from Uppsala University in January 2025, supervised by <a href="https://www.eee.hku.hk/people/echngai/">Prof. Edith C. H. Ngai</a>.</p>
+  <p>I develop methods and systems that make foundation model adaptation more efficient under compute, memory, and communication constraints. My current work focuses on <strong>LoRA compression, multi-adapter serving, and federated adaptation</strong>, building on my earlier research in robust federated learning.</p>
+  <div class="opportunity-note">
+    <span class="opportunity-label">On the job market</span>
+    <p>I’m currently on the job market, exploring opportunities in both industry and academia, with a focus on <strong>Efficient AI, LLM Post-Training, and Distributed RL</strong>. <a href="mailto:{{ site.author.email }}">Get in touch <span aria-hidden="true">↗</span></a></p>
   </div>
-</div>
+</section>
 
-<div class='paper-box'><div class='paper-box-image'><div><div 
-class="badge">IEEE TBD</div><img src='images/rsz_tbd23.png' alt="sym" 
-width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<section id="news" aria-labelledby="news-title">
+  <h2 id="news-title">Recent News</h2>
+  <ul class="news-list">
+    <li><time datetime="2026-11">Nov 2026</time><span><a href="{{ '/fraq/' | relative_url }}">FraQ</a> accepted at <strong>EACL 2027</strong>.</span></li>
+    <li><time datetime="2026-10">Oct 2026</time><span><a href="https://openreview.net/forum?id=CvmRAXEk8B">LoRA on a Budget</a> accepted at <strong>NeuralArtifacts@NeurIPS</strong>.</span></li>
+    <li><time datetime="2025-08">Aug 2025</time><span>Our team won <strong>1st place</strong> at <a href="https://techarena-sweden.hackathon.com/">Huawei Sweden Tech Arena 2025</a>.</span></li>
+  </ul>
+  <details class="news-archive">
+    <summary>Earlier news</summary>
+    <ul class="news-list">
+      <li><time datetime="2025-01">Jan 2025</time><span>Defended my PhD thesis, <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1914990">Robust Federated Learning: Defending Against Byzantine and Jailbreak Attacks</a>.</span></li>
+      <li><time datetime="2024-01">Jan 2024</time><span><a href="https://arxiv.org/abs/2206.05359">Blades</a> accepted at <strong>IoTDI 2024</strong>.</span></li>
+      <li><time datetime="2023-12">Dec 2023</time><span>Our team placed <strong>3rd</strong> at the <a href="https://www.agorize.com/en/challenges/huawei-sweden-hackathon-2023">Huawei Sweden Hackathon</a> for a cost-effective RAN computing solution.</span></li>
+      <li><time datetime="2023-01">Jan 2023</time><span>Our experimental study of Byzantine-robust aggregation was accepted by <strong>IEEE Transactions on Big Data</strong>.</span></li>
+    </ul>
+  </details>
+</section>
 
-[An Experimental Study of Byzantine-Robust Aggregation Schemes in Federated Learning](https://ieeexplore.ieee.org/abstract/document/10018261)
+<section id="research" aria-labelledby="research-title">
+  <div class="section-heading"><h2 id="research-title">Selected Research</h2><a href="{{ '/publications/' | relative_url }}">All publications <span aria-hidden="true">→</span></a></div>
+  {% for paper in site.data.research %}{% include research-item.html %}{% endfor %}
+</section>
 
-**Shenghui Li**, Edith C. H. Ngai, Thiemo Voigt
-
-IEEE Transactions on Big Data (IEEE TBD), 2023
-
-   </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">IEEE TII</div>
-      <img src='images/tii23.jpg' alt="sym" width="100%">
-    </div>
+<section id="open-source" aria-labelledby="open-source-title">
+  <h2 id="open-source-title">Open Source</h2>
+  <div class="project-list">
+    <article class="project-item">
+      <a class="project-image project-image--logo" href="https://github.com/lishenghui/loraforge"><img src="{{ '/images/research/loraforge-logo.png' | relative_url }}" width="1254" height="1254" alt="LoRAForge logo: a hammer striking a glowing anvil shaped like the letter F" loading="lazy"></a>
+      <div><h3><a href="https://github.com/lishenghui/loraforge">LoRAForge</a></h3><p>Compress trained LoRA adapters and run them through a retained-rank-aware serving backend. Connects research methods to GPU execution.</p><div class="resource-links"><a href="https://github.com/lishenghui/loraforge">Code &amp; documentation <span aria-hidden="true">↗</span></a></div></div>
+    </article>
+    <article class="project-item">
+      <a class="project-image project-image--logo" href="https://github.com/lishenghui/blades"><img src="{{ '/images/research/blades-logo.png' | relative_url }}" width="2000" height="2000" alt="Blades logo: a purple shield with silver blades and connected nodes" loading="lazy"></a>
+      <div><h3><a href="https://github.com/lishenghui/blades">Blades</a></h3><p>Compare Byzantine attacks and defenses in one federated learning benchmark, with shared evaluation pipelines and reproducible experiments.</p><div class="resource-links"><a href="https://github.com/lishenghui/blades">Code &amp; documentation <span aria-hidden="true">↗</span></a></div></div>
+    </article>
   </div>
+</section>
 
-  <div class='paper-box-text' markdown="1">
-  
-  [Byzantine-Robust Aggregation in Federated Learning Empowered Industrial IoT](https://ieeexplore.ieee.org/abstract/document/9614992)
-  
-  **Shenghui Li**, Edith C. H. Ngai, Thiemo Voigt
-  
-  IEEE Transactions on Industrial Informatics (IEEE TII), 2023
-  
+<section id="experience" aria-labelledby="experience-title">
+  <h2 id="experience-title">Experience &amp; Education</h2>
+  <div class="timeline">
+    <div class="timeline-item"><span class="timeline-date">Current</span><div><h3>Postdoctoral Researcher</h3><p>Department of Electrical Engineering, Uppsala University</p></div></div>
+    <div class="timeline-item" id="education"><span class="timeline-date">2019 – 2025</span><div><h3>PhD · Uppsala University</h3><p>Department of Information Technology · Uppsala, Sweden</p></div></div>
+    <div class="timeline-item"><span class="timeline-date">2017 – 2019</span><div><h3>Sun Yat-Sen University</h3><p>Guangzhou, China</p></div></div>
+    <div class="timeline-item"><span class="timeline-date">2013 – 2017</span><div><h3>Xidian University</h3><p>Xi’an, China</p></div></div>
+    <div class="timeline-item"><span class="timeline-date">Jul – Oct 2019</span><div><h3>Industry Internship · ByteDance</h3><p>Shanghai, China</p></div></div>
   </div>
+</section>
+
+<section id="teaching" class="secondary-section" aria-labelledby="teaching-title">
+  <h2 id="teaching-title">Teaching</h2>
+  <p><strong>Machine Learning for IoT</strong> — hands-on labs on gesture recognition and resource-constrained machine learning. <a href="{{ '/teaching/' | relative_url }}">Teaching &amp; course resources <span aria-hidden="true">→</span></a></p>
+</section>
+
+<section id="awards" class="secondary-section" aria-labelledby="awards-title">
+  <h2 id="awards-title">Honors &amp; Awards</h2>
+  <ul class="awards-list">
+    <li><strong>1st place</strong> · Huawei Sweden Tech Arena <span>2025</span></li>
+    <li><strong>3rd place</strong> · Huawei Sweden University Challenge <span>2023</span></li>
+  </ul>
+</section>
+<footer class="homepage-footer">Shenghui Li · Uppsala University <a href="#about-me">Back to top ↑</a></footer>
 </div>
-
-
-## Journal Articles
-
-- [Auto-weighted robust federated learning with corrupted data sources](https://dl.acm.org/doi/full/10.1145/3517821), **Shenghui Li**, Edith C. H. Ngai, Fanghua 
-  Ye, Thiemo Voigt, ACM Transactions on Intelligent Systems and Technology (TIST), 
-  2022
-- [Makespan-minimized computation offloading for smart toys in edge-cloud computing](https://www.sciencedirect.com/science/article/pii/S1567422319300614), **Shenghui 
-  Li**, Wuhui Chen, Yufen Chen, Chuan Chen, Zibin Zheng, Electronic Commerce 
-  Research and Applications, 2019
-- [Energy-efficient data routing in cooperative UAV swarms for medical assistance 
-  after a disaster](https://aip.scitation.org/doi/abs/10.1063/1.5092740), Yuanhao 
-  Yang, Xiaoyu Qiu, **Shenghui Li**, Junbo Wang, Wuhui Chen, Patrick CK Hung, Zibin 
-  Zheng, Chaos: An Interdisciplinary Journal of Nonlinear Science (CHAOS), 2019
-
-
-## Conference Papers
-
-- [Blades: A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning](https://arxiv.org/abs/2206.05359), **Shenghui Li**, Edith C. H. Ngai, Fanghua Ye, Li Ju, Tianru Zhang, Thiemo Voigt, ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI), 2024
-
-- [Enhancing Conversational Search: Large Language Model-Aided Informative Query Rewriting](https://arxiv.org/abs/2310.09716), Fanghua Ye, Meng Fang, **Shenghui Li**, Emine Yilmaz, The Conference on Empirical Methods in Natural 
-  Language Processing (EMNLP), 2023
-- [MetaASSIST: Robust Dialogue State Tracking with Meta Learning](https://arxiv.org/abs/2210.12397), Fanghua Ye, Xi Wang, Jie Huang, **Shenghui Li**, 
-    Samuel Stern, and Emine Yilmaz, The Conference on Empirical Methods in Natural 
-  Language Processing (EMNLP), 2022
-- [Slot self-attentive dialogue state tracking](https://dl.acm.org/doi/abs/10.1145/3442381.3449939), 
-  Fanghua Ye, Jarana Manotumruksa, Qiang Zhang, **Shenghui Li**, 
-  Emine Yilmaz, Proceedings of the Web Conference, 2021
-- [Smart contract-based hierarchical auction mechanism for edge computing in 
-  blockchain-empowered IoT](https://ieeexplore.ieee.org/abstract/document/9217781/), 
-  Hui Lin, Zetao Yang, Zicong Hong, **Shenghui Li**, Wuhui Chen, IEEE 21st 
-  International Symposium on" A World of Wireless, Mobile and Multimedia Networks"
-  (WoWMoM), 2020
-- [Perishable Digital Goods Trading Mechanism for Blockchain-Based Vehicular Network](https://ieeexplore.ieee.org/abstract/document/9047309/), Rui Xi, Kang Liu, Shuo 
-  Liu, Wuhui Chen, **Shenghui Li**, IEEE Intl Conf on Parallel & Distributed 
-  Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & 
-  Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom), 
-  2019
-- [Generative adversarial network based service recommendation in heterogeneous 
-  information networks](https://ieeexplore.ieee.org/abstract/document/8818434/), 
-  Fenfang Xie, **Shenghui Li**, Liang Chen, Yangjun Xu, Zibin Zheng, IEEE 
-  International Conference on Web Services (ICWS), 2019
-- [Adaptive affinity learning for accurate community detection](https://ieeexplore.ieee.org/abstract/document/8594997/),
-  Fanghua Ye, **Shenghui Li**, Zhiwei Lin, Chuan 
-  Chen, Zibin Zheng,  IEEE International Conference on Data Mining (ICDM), 2018
-- [Latency-aware task assignment and scheduling in collaborative cloud robotic 
-  systems](https://ieeexplore.ieee.org/abstract/document/8457784/), **Shenghui Li**, 
-  Zhiheng Zheng, Wuhui Chen, Zibin Zheng, Junbo Wang, IEEE 11th International 
-  Conference on Cloud Computing (CLOUD), 2018
-
-[//]: # (# 🎖 Honors and Awards)
-
-[//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-
-# 📦 Projects
-- <img src='./images/blade10.png' style='width: 1.3em;'> **[Blades](https://github.com/lishenghui/blades):** A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning
-
-
-# 🏆 Honors & awards
-- *2025.08*, [Huawei Sweden Tech Arena 2025](https://techarena-sweden.hackathon.com/) ***(1st place)***
-- *2023.12*, Hackathon - [Huawei Sweden University Challenge 2023](https://www.huaweihackathon2023.se/en/challenges/registration) ***(3rd place)***
-
-# 📖 Educations
-- *2019.10 - 2025.01*, Uppsala University, Uppsala, Sweden
-- *2017.08 - 2019.06*, Sun Yat-Sen University, Guangzhou, China
-- *2013.09 - 2017.06*, Xidian University, Xi'an, China
-
-[//]: # (# 💬 Invited Talks)
-
-[//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-
-[//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
-
-[//]: # (# 🧑🏻‍🏫 Teaching Activities)
-
-
-# 💻 Internships
-- *2019.07 - 2019.10*, <img src='./images/tiktok.png' style='width: 6em;'>, Shanghai, China.
