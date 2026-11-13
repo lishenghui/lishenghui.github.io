@@ -14,8 +14,6 @@
   alt: "Functional rank allocation distributes a shared rank budget across adapters with different compression tolerance"
   summary: "Allocates a shared rank budget across layers and adapters using functional distortion to protect fleet-wide utility."
   paper: "https://arxiv.org/abs/2610.36386"
-  extra_label: "OpenReview"
-  extra_url: "https://openreview.net/forum?id=CvmRAXEk8B"
 
 - title: "LoRAForge: Co-Designing Post-Hoc Compression and Execution for Efficient Multi-LoRA Serving"
   authors: "<strong>Shenghui Li</strong>, Thiemo Voigt"
