@@ -32,6 +32,8 @@ excerpt: "Research publications by Shenghui Li on efficient AI, low-rank adaptat
 
 ## Other conference papers
 
+- [Blades: A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning](https://arxiv.org/abs/2206.05359), **Shenghui Li**, Edith C. H. Ngai, Fanghua Ye, Li Ju, Tianru Zhang, Thiemo Voigt, ACM/IEEE IoTDI, 2024
+
 - [Enhancing Conversational Search: Large Language Model-Aided Informative Query Rewriting](https://arxiv.org/abs/2310.09716), Fanghua Ye, Meng Fang, **Shenghui Li**, Emine Yilmaz, The Conference on Empirical Methods in Natural
   Language Processing (EMNLP), 2023
 - [MetaASSIST: Robust Dialogue State Tracking with Meta Learning](https://arxiv.org/abs/2210.12397), Fanghua Ye, Xi Wang, Jie Huang, **Shenghui Li**,
