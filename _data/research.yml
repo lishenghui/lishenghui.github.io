@@ -1,10 +1,9 @@
 - title: "FraQ: Efficient Coordinate-Space Recompression for Federated Low-Rank Adaptation"
   authors: "<strong>Shenghui Li</strong>, Thiemo Voigt"
   venue: "EACL 2027"
-  acceptance_rate: "13.5%"
   image: "/fraq/framework_fig-1.png"
   alt: "FraQ framework with local LoRA adapters and server-side coordinate-space recompression"
-  summary: "Recompresses aggregated LoRA updates in a compact coordinate space for efficient federated adaptation."
+  venue_full: "20th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2027"
   paper: "https://arxiv.org/abs/2608.03605"
   project: "/fraq/"
 
@@ -13,7 +12,7 @@
   venue: "NeuralArtifacts@NeurIPS"
   image: "/images/research/lora-budget.svg"
   alt: "Functional rank allocation distributes a shared rank budget across adapters with different compression tolerance"
-  summary: "Allocates a shared rank budget across layers and adapters using functional distortion to protect fleet-wide utility."
+  venue_full: "NeurIPS 2026 Workshop on Neural Network Artifacts as a New Data Modality"
   paper: "https://arxiv.org/abs/2610.36386"
 
 - title: "LoRAForge: Co-Designing Post-Hoc Compression and Execution for Efficient Multi-LoRA Serving"
@@ -21,7 +20,7 @@
   venue: "arXiv · 2026"
   image: "/images/research/loraforge.svg"
   alt: "LoRAForge pipeline connects adapter compression, retained ranks, and rank-specialized serving"
-  summary: "Connects batched adapter compression with rank-specialized execution so smaller adapters translate into more efficient serving."
+  venue_full: "arXiv:2611.01256, 2026"
   paper: "https://arxiv.org/abs/2611.01256"
   code: "https://github.com/lishenghui/loraforge"
 
@@ -30,5 +29,5 @@
   venue: "arXiv · 2026"
   image: "/images/research/hilo-framework.png"
   alt: "HiLo synchronization protocol: a learner broadcasts compressed gradients, and rollout workers replay optimizer updates locally"
-  summary: "Reduces LoRA synchronization traffic through compressed gradient dissemination and local optimizer replay, without lowering the training rank."
+  venue_full: "arXiv:2611.13306, 2026"
   paper: "https://arxiv.org/abs/2611.13306"

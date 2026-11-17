@@ -7,8 +7,8 @@
   </div>
   <div class="research-content">
     <h3><a href="{{ paper.paper }}">{{ paper.title }}</a></h3>
-    <p class="research-authors">{{ paper.authors }}{% if paper.acceptance_rate %} · Acceptance rate: {{ paper.acceptance_rate }}{% endif %}</p>
-    <p class="research-summary">{{ paper.summary }}</p>
+    <p class="research-authors">{{ paper.authors }}</p>
+    <p class="research-publication">{{ paper.venue_full | default: paper.venue }}</p>
     <div class="resource-links" aria-label="Research resources">
       <a href="{{ paper.paper }}">Paper <span aria-hidden="true">↗</span></a>
       {% if paper.code %}<a href="{{ paper.code }}">Code <span aria-hidden="true">↗</span></a>{% endif %}

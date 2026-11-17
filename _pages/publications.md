@@ -10,7 +10,7 @@ excerpt: "Research publications by Shenghui Li on efficient AI, low-rank adaptat
 <h2>Recent &amp; selected research</h2>
 <ol class="publication-list">
 {% for paper in site.data.research %}
-  <li><a href="{{ paper.paper }}">{{ paper.title }}</a><p class="publication-meta"><span class="publication-authors">{{ paper.authors }}</span> <span aria-hidden="true">·</span> <span class="publication-venue">{{ paper.venue }}</span>{% if paper.acceptance_rate %} · Acceptance rate: {{ paper.acceptance_rate }}{% endif %}</p></li>
+  <li><a href="{{ paper.paper }}">{{ paper.title }}</a><p class="publication-meta"><span class="publication-authors">{{ paper.authors }}</span> <span aria-hidden="true">·</span> <span class="publication-venue">{{ paper.venue_full | default: paper.venue }}</span></p></li>
 {% endfor %}
 </ol>
 
