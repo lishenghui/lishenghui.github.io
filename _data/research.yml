@@ -1,6 +1,7 @@
 - title: "FraQ: Efficient Coordinate-Space Recompression for Federated Low-Rank Adaptation"
   authors: "<strong>Shenghui Li</strong>, Thiemo Voigt"
-  venue: "EACL 2027 (13.5% acceptance)"
+  venue: "EACL 2027"
+  acceptance_rate: "13.5%"
   image: "/fraq/framework_fig-1.png"
   alt: "FraQ framework with local LoRA adapters and server-side coordinate-space recompression"
   summary: "Recompresses aggregated LoRA updates in a compact coordinate space for efficient federated adaptation."
