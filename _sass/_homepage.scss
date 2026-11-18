@@ -110,7 +110,7 @@
     box-shadow: 0 3px 7px rgba(86, 43, 18, .16), 0 1px 2px rgba(48, 42, 37, .08);
     pointer-events: none;
   }
-  .research-image { display: flex; align-items: center; justify-content: center; background: var(--surface); border: 1px solid var(--rule); border-radius: 6px; overflow: hidden; aspect-ratio: 28 / 17; }
+  .research-image { display: flex; align-items: center; justify-content: center; padding: 12px; background: var(--surface); border: 1px solid var(--rule); border-radius: 6px; overflow: hidden; aspect-ratio: 28 / 17; }
   .research-image img { width: 100%; height: 100%; object-fit: contain; box-shadow: none; }
   .research-image:hover img, .project-image:hover img { box-shadow: none; }
   .research-content h3 { font-size: 18px; line-height: 1.4; margin: 0 0 7px; }
